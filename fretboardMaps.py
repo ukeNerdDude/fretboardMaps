@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
     fretboardMaps.py maps fretboard for 1 thru 6 string instruments.
-    v0.01 Copyright (C) 2020 David Murray
+    v0.02 Copyright (C) 2020 David Murray
+    https://github.com/ukeNerdDude/fretboardMaps
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -15,6 +16,10 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+    Revision history:
+    v0.01 initial checkin
+    v0.02 added gethub source address to header
 """
 import sys
 import pandas as pd
@@ -1014,7 +1019,8 @@ label.pack
 
 print('')
 print('fretboardMaps.py maps fretboard for 1 thru 6 string instruments.')
-print('v0.01 Copyright (C) 2020 David Murray')
+print('v0.02 Copyright (C) 2020 David Murray')
+print('https://github.com/ukeNerdDude/fretboardMaps')
 print()
 print('This program is free software: you can redistribute it and/or modify')
 print('it under the terms of the GNU General Public License as published by')
